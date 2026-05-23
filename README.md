@@ -122,16 +122,3 @@ Anshul Sharma
 
 
 
-
-
-
-
-
-
-
-
-
-
-# Internship Assignment
-
-This project was created as part of the MERN Stack Developer Internship Technical Assessment for Isaii AI.
