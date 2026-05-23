@@ -109,7 +109,7 @@ PORT=5000
 
 # Screenshots
 
-Add screenshots here after deployment.
+
 
 ---
 
