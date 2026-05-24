@@ -1,3 +1,4 @@
+require("dotenv").config();
 const projectRoutes = require("./routes/projectRoutes");
 const express = require("express");
 const cors = require("cors");
